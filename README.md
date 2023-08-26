@@ -39,8 +39,6 @@ Check it out! [Applied Machine Learning Projects Repository](https://github.com/
 
 - **Node.js:** Discover my experiments with Node.js, where I harness its versatility to create applications across domains. If you're interested in exploring my Node.js projects, you can check out my dedicated repository for them. Here's the link: [Node.js Projects Repository](https://github.com/nmermigas/nodejs-projects).
 
-  In this repository, you'll find a collection of projects showcasing my adventures with Node.js, ranging from web applications to backend services. Feel free to explore, fork, and provide feedback!
-
 
 - **PyTorch:** Follow my journey into the world of deep learning as I tinker with PyTorch to build and train neural networks. Repo soon to be announced...
 
