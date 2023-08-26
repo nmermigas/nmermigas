@@ -34,14 +34,13 @@ I'm on an exciting expedition, navigating the realms of **PyTorch** and **Node.j
 
 Here's a glimpse of what you'll find here:
 
-- **Applied Machine Learning:** The repository contains three applied machine learning projects completed as part of the Applied Machine Learning university course of my senior year. Each project focuses on exploring real-world datasets and applying various machine learning and data science techniques. The complexity of the projects gradually increases, from creating meaningful plots, performing EDA and feature engineering to comparing various predictive models.
+- **Applied Machine Learning 🐍🤖:** The repository contains three applied machine learning projects completed as part of the Applied Machine Learning university course of my senior year. Each project focuses on exploring real-world datasets and applying various machine learning and data science techniques. The complexity of the projects gradually increases, from creating meaningful plots, performing EDA and feature engineering to comparing various predictive models.
 Check it out! [Applied Machine Learning Projects Repository](https://github.com/nmermigas/Applied-Machine-Learning)
 
-- **Node.js:** Discover my experiments with Node.js, where I harness its versatility to create applications across domains. If you're interested in exploring my Node.js projects, you can check out my dedicated repository for them. Here's the link: [Node.js Projects Repository](https://github.com/nmermigas/nodejs-projects).
+- **Node.js 🟢:** Discover my experiments with Node.js, where I harness its versatility to create applications across domains. If you're interested in exploring my Node.js projects, you can check out my dedicated repository for them. Here's the link: [Node.js Projects Repository](https://github.com/nmermigas/nodejs-projects).
 
 
-- **PyTorch:** Follow my journey into the world of deep learning as I tinker with PyTorch to build and train neural networks. Repo soon to be announced...
-
+- **PyTorch 🔥:** Follow my journey into the world of deep learning as I tinker with PyTorch to build and train neural networks. Repo soon to be announced...
 
 
 ## Hobbies
