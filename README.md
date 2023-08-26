@@ -42,7 +42,6 @@ Check it out! [Applied Machine Learning Projects Repository](https://github.com/
 
 - **PyTorch:** Follow my journey into the world of deep learning as I tinker with PyTorch to build and train neural networks. Repo soon to be announced...
 
-- **Coding Chronicles:** Join me in various coding escapades, from mastering algorithms to indulging in creative coding.
 
 
 ## Hobbies
