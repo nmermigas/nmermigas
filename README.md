@@ -47,8 +47,8 @@ Check it out! [Applied Machine Learning Projects Repository](https://github.com/
 
 When I'm not immersed in code, you can find me pursuing my hobbies:
 
-🎸 Strumming the Guitar: Music is my escape, and I love playing tunes on my guitar.
-💪 Hitting the Gym: I'm a fitness enthusiast, and you'll often find me working out and pushing my limits.
+- 🎸 Strumming the Guitar: Music is my escape, and I love playing tunes on my guitar.
+- 💪 Hitting the Gym: I'm a fitness enthusiast, and you'll often find me working out and pushing my limits.
 
 
 ## Let's Connect!
