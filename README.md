@@ -40,7 +40,8 @@ Check it out! [Applied Machine Learning Projects Repository](https://github.com/
 - **Node.js 🟢:** Discover my experiments with Node.js, where I harness its versatility to create applications across domains. If you're interested in exploring my Node.js projects, you can check out my dedicated repository for them. Here's the link: [Node.js Projects Repository](https://github.com/nmermigas/nodejs-projects).
 
 
-- **PyTorch 🔥:** Follow my journey into the world of deep learning as I tinker with PyTorch to build and train neural networks. Repo soon to be announced...
+- **PyTorch 🔥:** Follow my journey into the world of deep learning as I tinker with PyTorch to build and train neural networks.
+  Repo: [PyTorch](https://github.com/nmermigas/PyTorch)
 
 
 ## Hobbies
