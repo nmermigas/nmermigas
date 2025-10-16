@@ -1,44 +1,59 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub!
 
-Hi, I’m Nikos! I’m a Software Engineer passionate about building impactful and reliable software.  
-Currently, I’m working as an **Android & Web Developer at Check24**, where I develop user-facing features in **Kotlin, Java, TypeScript, and Angular**.  
+Hi, I’m **Nikos Mermigkas** — a **T-shaped software engineer** passionate about building reliable, scalable, and user-centric products.  
+I love bridging the gap between **frontend, backend, and mobile**, turning ideas into polished, production-ready systems.
 
-My journey started with a strong academic foundation in **Management Science & Technology (AUEB)** and an **AI/NLP internship at IBM**, where I worked on natural language processing for underrepresented languages. Since then, I’ve continued to grow across mobile, web, and backend development — always keeping an eye on Machine Learning and its applications in real-world systems.  
+Currently, I’m working as a **Full-Stack (Android & Web) Developer at CHECK24**, where I’ve built end-to-end features used by thousands of users — from native Android experiences in **Kotlin/Compose** to backend automation in **Mezzio (PHP)** and **Dockerized environments**.
 
 ---
 
 ## 🔭 What I’m Working On
-- Developing Android and web features in **Kotlin/Java** & **Angular/TypeScript/PHP**  
-- Building side projects in **React Native** & **Nest.js**  
-- Exploring **PyTorch** and modern ML frameworks with the goal of deepening my expertise in NLP, LLMs, and applied AI  
+- **Android & Web Development** — Building features for CHECK24’s GKV app with Kotlin, Jetpack Compose, and clean architecture principles.  
+- **Full-Stack Projects** —  
+  - **FlexiJobs (in development):** Cross-platform job-listing app using **React Native**, **NestJS**, **PostgreSQL**, and **Prisma**.  
+  - **TutorFlow (prototype):** A **Next.js + Supabase** platform for teachers to share resources, assign tasks, manage payments, and integrate **semantic search (RAG)**.  
+- **Applied AI** — Experimenting with **LLMs**, **vector search**, and **retrieval-augmented generation** for real-world applications.
 
 ---
 
-## 🌱 Currently Learning
-- **Advanced Android/Kotlin** patterns and clean architecture  
-- **Full-stack web development** with TypeScript, React, and Nest.js  
-- **Machine Learning foundations** (NLP, vector search, RAG, LLM fine-tuning)  
+## 🌱 Currently Learning & Exploring
+- Advanced **Android/Kotlin** patterns (Compose, architecture, modularization)  
+- **Full-stack web frameworks**: Next.js, NestJS, Supabase  
+- **Applied ML** for information retrieval, RAG pipelines, and lightweight deployment  
 
 ---
 
-## 🚀 Highlights
-- **Applied Machine Learning 🐍🤖:** The repository contains three applied machine learning projects completed as part of the Applied Machine Learning university course of my senior year. Each project focuses on exploring real-world datasets and applying various machine learning and data science techniques. The complexity of the projects gradually increases, from creating meaningful plots, performing EDA and feature engineering to comparing various predictive models. Check it out!
-  👉 [Applied Machine Learning Projects Repository](https://github.com/nmermigas/Applied-Machine-Learning) 
-- **PyTorch Deep Learning** – Ongoing experiments with neural networks and ML workflows
-  👉 [PyTorch Repository](https://github.com/nmermigas/PyTorch)  
+## 🚀 Experience Highlights
+- **CHECK24:**  
+  - Converted legacy WebViews to native Android flows, achieving **100 % user coverage** and smoother lead-closing experiences.  
+  - Delivered new modules like *Wahltarif* (cashback tariff selection) and automated contract-cancellation backend flows.  
+- **IBM:**  
+  - Integrated and optimized **BERT-based NLP** for Greek, improving sentiment and entity-recognition models.  
+- **Airbus (via Alten):**  
+  - Tested and validated aircraft connectivity systems (ALNA 4.0) ensuring compliance and reliability.
+
+---
+
+## 🧠 Core Stack
+**Languages:** Kotlin, TypeScript, Java, PHP, Python  
+**Frameworks:** Jetpack Compose, React Native, NestJS, Next.js, Mezzio, Doctrine  
+**Databases:** PostgreSQL, MySQL  
+**Tools:** Docker, Prisma, Git, OpenAPI, Supabase  
+**Focus Areas:** Clean architecture, modular systems, full-stack product development, applied AI
 
 ---
 
 ## 🎸 Outside of Tech
-When I’m not coding, you’ll probably find me:
-- 🎸 Playing guitar  
-- 💪 Training at the gym  
-- 📚 Reading about tech, economics, or social sciences  
+When I’m not coding, you’ll probably find me:  
+🎸 Playing guitar 💪 Lifting at the gym 📚 Reading about tech, startups, and economics
 
 ---
 
-## 📫 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/nikosmermigas/)  
-- 📧 Email: **nikosmermigas01@gmail.com**  
+## 📫 Let’s Connect
+💼 [LinkedIn](https://www.linkedin.com/in/nikosmermigas/)  
+📧 **nikosmermigas01@gmail.com**
 
+---
+
+> “Great software is built when curiosity meets ownership.”  
 Thanks for stopping by — let’s build something great together! 🚀
